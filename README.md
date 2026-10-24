@@ -87,7 +87,7 @@ These are proposed improvements, not claims about completed functionality.
 8. Demonstration Video
 
 Video duration: At least 20 minutes
-Video link: https://youtu.be/ZkGQB7rcEDE
+Video link: https://youtu.be/6yqJuS3LrLc
 
 The demonstration will explain the problem, healthcare use case, architecture, technology stack, live prototype walkthrough, current limitations and future development plan.
 
